@@ -1,0 +1,242 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AE Badalones Basketball Calendar//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 A.E. Badalonès - Segona Categoria
+X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VEVENT
+UID:96edfb8066333f582bbda177@basquetcalendar-badalones-segona
+DTSTART;TZID=Europe/Madrid:20260926T193000
+DTEND;TZID=Europe/Madrid:20260926T213000
+SUMMARY:🏀 vs AE BELLSPORT 🏠
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - AE BELLSPORT\n\n🏆 C.C. SEGONA CATEGORIA MASCULINA\n🏀 Local\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:774a8516984a6c9e2b06f6a5@basquetcalendar-badalones-segona
+DTSTART;TZID=Europe/Madrid:20261004T123000
+DTEND;TZID=Europe/Madrid:20261004T143000
+SUMMARY:🏀 @ LIMA-HORTA BARCELONA ✈️
+LOCATION:POLIESPORTIU SA.FA. HORTA (TORRENT DEL CARMEL\, 1 (08032))
+DESCRIPTION:LIMA-HORTA BARCELONA - A.E. BADALONÈS - PINTURAS CORBACHO\n\n🏆 C.C. SEGONA CATEGORIA MASCULINA\n🏀 Visitant\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:fbfbea40991890affa33c326@basquetcalendar-badalones-segona
+DTSTART;TZID=Europe/Madrid:20261010T193000
+DTEND;TZID=Europe/Madrid:20261010T213000
+SUMMARY:🏀 vs KENWOOD JOVENTUT LES CORTS 🏠
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - KENWOOD JOVENTUT LES CORTS\n\n🏆 C.C. SEGONA CATEGORIA MASCULINA\n🏀 Local\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:b092465864aae712754b0c1d@basquetcalendar-badalones-segona
+DTSTART;TZID=Europe/Madrid:20261017T160000
+DTEND;TZID=Europe/Madrid:20261017T180000
+SUMMARY:🏀 @ A.E. SANT ANDREU NATZARET-B ✈️
+LOCATION:PAVELLO PAISOS CATALANS (AUSIAS MARCH\, 61-77 (08912))
+DESCRIPTION:A.E. SANT ANDREU NATZARET-B - A.E. BADALONÈS - PINTURAS CORBACHO\n\n🏆 C.C. SEGONA CATEGORIA MASCULINA\n🏀 Visitant\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:bef7bae4f442154e88c4371e@basquetcalendar-badalones-segona
+DTSTART;TZID=Europe/Madrid:20261024T193000
+DTEND;TZID=Europe/Madrid:20261024T213000
+SUMMARY:🏀 vs C.B. CIC A 🏠
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - C.B. CIC A\n\n🏆 C.C. SEGONA CATEGORIA MASCULINA\n🏀 Local\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:a87d413a7b1adeb7b83171f3@basquetcalendar-badalones-segona
+DTSTART;TZID=Europe/Madrid:20261107T184500
+DTEND;TZID=Europe/Madrid:20261107T204500
+SUMMARY:🏀 @ UE HORTA B ✈️
+LOCATION:U.E. HORTA (FELIU I CODINA 27 (08031))
+DESCRIPTION:UE HORTA B - A.E. BADALONÈS - PINTURAS CORBACHO\n\n🏆 C.C. SEGONA CATEGORIA MASCULINA\n🏀 Visitant\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:756f3703fb3141d36e4edcb6@basquetcalendar-badalones-segona
+DTSTART;TZID=Europe/Madrid:20261114T193000
+DTEND;TZID=Europe/Madrid:20261114T213000
+SUMMARY:🏀 vs MANTISE CB SANT JOSEP BADALONA - SBM 🏠
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - MANTISE CB SANT JOSEP BADALONA - SBM\n\n🏆 C.C. SEGONA CATEGORIA MASCULINA\n🏀 Local\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:b0ca6cc93798a8e74e53d82b@basquetcalendar-badalones-segona
+DTSTART;TZID=Europe/Madrid:20261122T194500
+DTEND;TZID=Europe/Madrid:20261122T214500
+SUMMARY:🏀 @ CLUB BÀSQUET COLL A ✈️
+LOCATION:PISTA CREUETA DEL COLL (CASTELLTERÇOL\, S/N (08023))
+DESCRIPTION:CLUB BÀSQUET COLL A - A.E. BADALONÈS - PINTURAS CORBACHO\n\n🏆 C.C. SEGONA CATEGORIA MASCULINA\n🏀 Visitant\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:60eb9063c2c3ce0b12798340@basquetcalendar-badalones-segona
+DTSTART;TZID=Europe/Madrid:20261128T193000
+DTEND;TZID=Europe/Madrid:20261128T213000
+SUMMARY:🏀 vs SANT IGNASI 🏠
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - SANT IGNASI\n\n🏆 C.C. SEGONA CATEGORIA MASCULINA\n🏀 Local\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:f23d15827144c74bda572728@basquetcalendar-badalones-segona
+DTSTART;TZID=Europe/Madrid:20261213T193000
+DTEND;TZID=Europe/Madrid:20261213T213000
+SUMMARY:🏀 @ MARISTES ADEMAR B ✈️
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+DESCRIPTION:MARISTES ADEMAR B - A.E. BADALONÈS - PINTURAS CORBACHO\n\n🏆 C.C. SEGONA CATEGORIA MASCULINA\n🏀 Visitant\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae493cf7568a87c5600e777@basquetcalendar-badalones-segona
+DTSTART;TZID=Europe/Madrid:20261220T123000
+DTEND;TZID=Europe/Madrid:20261220T143000
+SUMMARY:🏀 @ U.E. CLARET B ✈️
+LOCATION:PAVELLO ESPORTIU CLARET (NAPOLS 348 (08025))
+DESCRIPTION:U.E. CLARET B - A.E. BADALONÈS - PINTURAS CORBACHO\n\n🏆 C.C. SEGONA CATEGORIA MASCULINA\n🏀 Visitant\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:bb1539a50eb4152c1393d134@basquetcalendar-badalones-segona
+DTSTART;TZID=Europe/Madrid:20270109T193000
+DTEND;TZID=Europe/Madrid:20270109T213000
+SUMMARY:🏀 vs BASKET CORAS 🏠
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - BASKET CORAS\n\n🏆 C.C. SEGONA CATEGORIA MASCULINA\n🏀 Local\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:e8c7a8c137301169ae7f41d0@basquetcalendar-badalones-segona
+DTSTART;TZID=Europe/Madrid:20270117T174500
+DTEND;TZID=Europe/Madrid:20270117T194500
+SUMMARY:🏀 @ BÀSQUET PB9 'A' ✈️
+LOCATION:PAVELLÓ AYMÀ - POBLENOU (PASSSATGE AYMÀ\, 18-26 (08005))
+DESCRIPTION:BÀSQUET PB9 'A' - A.E. BADALONÈS - PINTURAS CORBACHO\n\n🏆 C.C. SEGONA CATEGORIA MASCULINA\n🏀 Visitant\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:b973f52f7b7aaefe550d3212@basquetcalendar-badalones-segona
+DTSTART;TZID=Europe/Madrid:20270124T123000
+DTEND;TZID=Europe/Madrid:20270124T143000
+SUMMARY:🏀 @ AE BELLSPORT ✈️
+LOCATION:POLIESPORTIU SERGIO MANZANO (AV.MARE DE DEU DE BELLVITGE\, 7 (08907))
+DESCRIPTION:AE BELLSPORT - A.E. BADALONÈS - PINTURAS CORBACHO\n\n🏆 C.C. SEGONA CATEGORIA MASCULINA\n🏀 Visitant\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:e8dbe9217ed2cf203d5fe898@basquetcalendar-badalones-segona
+DTSTART;TZID=Europe/Madrid:20270130T193000
+DTEND;TZID=Europe/Madrid:20270130T213000
+SUMMARY:🏀 vs LIMA-HORTA BARCELONA 🏠
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - LIMA-HORTA BARCELONA\n\n🏆 C.C. SEGONA CATEGORIA MASCULINA\n🏀 Local\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:7a1a25f18fca33be58491b02@basquetcalendar-badalones-segona
+DTSTART;TZID=Europe/Madrid:20270207T180000
+DTEND;TZID=Europe/Madrid:20270207T200000
+SUMMARY:🏀 @ KENWOOD JOVENTUT LES CORTS ✈️
+LOCATION:INST.MUNICIPALS ILLA DIAGONAL (NUMANCIA\, 142 (08029))
+DESCRIPTION:KENWOOD JOVENTUT LES CORTS - A.E. BADALONÈS - PINTURAS CORBACHO\n\n🏆 C.C. SEGONA CATEGORIA MASCULINA\n🏀 Visitant\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:ea49713a82e917c7a847012e@basquetcalendar-badalones-segona
+DTSTART;TZID=Europe/Madrid:20270213T193000
+DTEND;TZID=Europe/Madrid:20270213T213000
+SUMMARY:🏀 vs A.E. SANT ANDREU NATZARET-B 🏠
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - A.E. SANT ANDREU NATZARET-B\n\n🏆 C.C. SEGONA CATEGORIA MASCULINA\n🏀 Local\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:070b3066b03f9c0837caefec@basquetcalendar-badalones-segona
+DTSTART;TZID=Europe/Madrid:20270228T193000
+DTEND;TZID=Europe/Madrid:20270228T213000
+SUMMARY:🏀 @ C.B. CIC A ✈️
+LOCATION:JESUS MARIA SANT GERVASI (C/ JESUS I MARIA\, 1-25 (08022))
+DESCRIPTION:C.B. CIC A - A.E. BADALONÈS - PINTURAS CORBACHO\n\n🏆 C.C. SEGONA CATEGORIA MASCULINA\n🏀 Visitant\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:0d648cd6432af29478425aff@basquetcalendar-badalones-segona
+DTSTART;TZID=Europe/Madrid:20270306T193000
+DTEND;TZID=Europe/Madrid:20270306T213000
+SUMMARY:🏀 vs UE HORTA B 🏠
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - UE HORTA B\n\n🏆 C.C. SEGONA CATEGORIA MASCULINA\n🏀 Local\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:2814bdc6ff30f98c3e9685fd@basquetcalendar-badalones-segona
+DTSTART;TZID=Europe/Madrid:20270314T174500
+DTEND;TZID=Europe/Madrid:20270314T194500
+SUMMARY:🏀 @ MANTISE CB SANT JOSEP BADALONA - SBM ✈️
+LOCATION:PAVELLO LA COLINA (GRAN BRETANYA\, S/N (08917))
+DESCRIPTION:MANTISE CB SANT JOSEP BADALONA - SBM - A.E. BADALONÈS - PINTURAS CORBACHO\n\n🏆 C.C. SEGONA CATEGORIA MASCULINA\n🏀 Visitant\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:ba4835d7f0d59cdb734ef26e@basquetcalendar-badalones-segona
+DTSTART;TZID=Europe/Madrid:20270403T193000
+DTEND;TZID=Europe/Madrid:20270403T213000
+SUMMARY:🏀 vs CLUB BÀSQUET COLL A 🏠
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - CLUB BÀSQUET COLL A\n\n🏆 C.C. SEGONA CATEGORIA MASCULINA\n🏀 Local\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:0f36b72f4068d4401c705d8b@basquetcalendar-badalones-segona
+DTSTART;TZID=Europe/Madrid:20270411T193000
+DTEND;TZID=Europe/Madrid:20270411T213000
+SUMMARY:🏀 @ SANT IGNASI ✈️
+LOCATION:COL.LEGI SANT IGNASI (GENERAL VIVES 34 (08017))
+DESCRIPTION:SANT IGNASI - A.E. BADALONÈS - PINTURAS CORBACHO\n\n🏆 C.C. SEGONA CATEGORIA MASCULINA\n🏀 Visitant\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:48daeccd240e5667676568c8@basquetcalendar-badalones-segona
+DTSTART;TZID=Europe/Madrid:20270417T193000
+DTEND;TZID=Europe/Madrid:20270417T213000
+SUMMARY:🏀 vs MARISTES ADEMAR B 🏠
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - MARISTES ADEMAR B\n\n🏆 C.C. SEGONA CATEGORIA MASCULINA\n🏀 Local\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:9efc49e67d156c5fcb11f378@basquetcalendar-badalones-segona
+DTSTART;TZID=Europe/Madrid:20270424T193000
+DTEND;TZID=Europe/Madrid:20270424T213000
+SUMMARY:🏀 vs U.E. CLARET B 🏠
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - U.E. CLARET B\n\n🏆 C.C. SEGONA CATEGORIA MASCULINA\n🏀 Local\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:d50f1990e5573d61e65cdce1@basquetcalendar-badalones-segona
+DTSTART;TZID=Europe/Madrid:20270508T200000
+DTEND;TZID=Europe/Madrid:20270508T220000
+SUMMARY:🏀 @ BASKET CORAS ✈️
+LOCATION:SAGRAT COR - SORT.9 RDA.DALT (RAMON MIQUEL I PLANAS\, 38-40 (08034))
+DESCRIPTION:BASKET CORAS - A.E. BADALONÈS - PINTURAS CORBACHO\n\n🏆 C.C. SEGONA CATEGORIA MASCULINA\n🏀 Visitant\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+BEGIN:VEVENT
+UID:8aa63cb8d831bf8cbcfcdd34@basquetcalendar-badalones-segona
+DTSTART;TZID=Europe/Madrid:20270515T193000
+DTEND;TZID=Europe/Madrid:20270515T213000
+SUMMARY:🏀 vs BÀSQUET PB9 'A' 🏠
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - BÀSQUET PB9 'A'\n\n🏆 C.C. SEGONA CATEGORIA MASCULINA\n🏀 Local\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88834
+END:VEVENT
+END:VCALENDAR
