@@ -1,8 +1,348 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Basquet Calendar 88834//ES
+PRODID:-//AE Badalones Basketball Calendar//ES
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Partits Bàsquet
+X-WR-CALNAME:🏀 A.E. Badalonès - Senior A
 X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VEVENT
+SUMMARY:🏀 vs PINTURAS CORBACHO - AE BELLSPORT C.C. SEGONA CATEGORIA MAS
+ CULINA 🏠
+DTSTART;TZID=Europe/Madrid:20260926T193000
+DTEND;TZID=Europe/Madrid:20260926T213000
+DTSTAMP:20260825T113034Z
+UID:414fe1eeff0ed9ad0195a55a@basquetcalendar-88829
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - AE BELLSPORT C.C. SEGONA
+  CATEGORIA MASCULINA\n\n🏆 2A CATALANA SÈNIOR MASCULÍ\n🏀 Local 🏠
+ \n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_g
+ lobal/pdf/88829
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 @  ✈️
+DTSTART;TZID=Europe/Madrid:20261004T123000
+DTEND;TZID=Europe/Madrid:20261004T143000
+DTSTAMP:20260825T113034Z
+UID:61a7105c9f2c12fbf1c96fe3@basquetcalendar-88829
+DESCRIPTION: - \n\n🏆 2A CATALANA SÈNIOR MASCULÍ\n🏀 Visitant ✈️
+ \n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_g
+ lobal/pdf/88829
+LOCATION:POLIESPORTIU SA.FA. HORTA (TORRENT DEL CARMEL\, 1 (08032))
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 vs PINTURAS CORBACHO - KENWOOD JOVENTUT LES CORTS C.C. SEGONA
+  CATEGORIA MASCULINA 🏠
+DTSTART;TZID=Europe/Madrid:20261010T193000
+DTEND;TZID=Europe/Madrid:20261010T213000
+DTSTAMP:20260825T113034Z
+UID:fa2eb63f453906b564f994e6@basquetcalendar-88829
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - KENWOOD JOVENTUT LES COR
+ TS C.C. SEGONA CATEGORIA MASCULINA\n\n🏆 2A CATALANA SÈNIOR MASCULÍ\n
+ 🏀 Local 🏠\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/ca
+ lendari_equip_global/pdf/88829
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 @  ✈️
+DTSTART;TZID=Europe/Madrid:20261017T160000
+DTEND;TZID=Europe/Madrid:20261017T180000
+DTSTAMP:20260825T113034Z
+UID:61a7105c9f2c12fbf1c96fe3@basquetcalendar-88829
+DESCRIPTION: - \n\n🏆 2A CATALANA SÈNIOR MASCULÍ\n🏀 Visitant ✈️
+ \n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_g
+ lobal/pdf/88829
+LOCATION:PAVELLO PAISOS CATALANS (AUSIAS MARCH\, 61-77 (08912))
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 vs PINTURAS CORBACHO - C.B. CIC A C.C. SEGONA CATEGORIA MASCU
+ LINA 🏠
+DTSTART;TZID=Europe/Madrid:20261024T193000
+DTEND;TZID=Europe/Madrid:20261024T213000
+DTSTAMP:20260825T113034Z
+UID:d0ec914e56cdf36aa8288381@basquetcalendar-88829
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - C.B. CIC A C.C. SEGONA C
+ ATEGORIA MASCULINA\n\n🏆 2A CATALANA SÈNIOR MASCULÍ\n🏀 Local 🏠\n
+ \nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_glo
+ bal/pdf/88829
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 @  ✈️
+DTSTART;TZID=Europe/Madrid:20261107T184500
+DTEND;TZID=Europe/Madrid:20261107T204500
+DTSTAMP:20260825T113034Z
+UID:61a7105c9f2c12fbf1c96fe3@basquetcalendar-88829
+DESCRIPTION: - \n\n🏆 2A CATALANA SÈNIOR MASCULÍ\n🏀 Visitant ✈️
+ \n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_g
+ lobal/pdf/88829
+LOCATION:U.E. HORTA (FELIU I CODINA 27 (08031))
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 vs PINTURAS CORBACHO - MANTISE CB SANT JOSEP BADALONA - SBM C
+ .C. SEGONA CATEGORIA MASCULINA 🏠
+DTSTART;TZID=Europe/Madrid:20261114T193000
+DTEND;TZID=Europe/Madrid:20261114T213000
+DTSTAMP:20260825T113034Z
+UID:8ea4d70105c998ddf2aadd55@basquetcalendar-88829
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - MANTISE CB SANT JOSEP BA
+ DALONA - SBM C.C. SEGONA CATEGORIA MASCULINA\n\n🏆 2A CATALANA SÈNIOR M
+ ASCULÍ\n🏀 Local 🏠\n\nFont oficial:\nhttps://www.basquetcatala.cat/p
+ artits/calendari_equip_global/pdf/88829
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 @  ✈️
+DTSTART;TZID=Europe/Madrid:20261122T194500
+DTEND;TZID=Europe/Madrid:20261122T214500
+DTSTAMP:20260825T113034Z
+UID:61a7105c9f2c12fbf1c96fe3@basquetcalendar-88829
+DESCRIPTION: - \n\n🏆 2A CATALANA SÈNIOR MASCULÍ\n🏀 Visitant ✈️
+ \n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_g
+ lobal/pdf/88829
+LOCATION:PISTA CREUETA DEL COLL (CASTELLTERÇOL\, S/N (08023))
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 vs PINTURAS CORBACHO - SANT IGNASI C.C. SEGONA CATEGORIA MASC
+ ULINA 🏠
+DTSTART;TZID=Europe/Madrid:20261128T193000
+DTEND;TZID=Europe/Madrid:20261128T213000
+DTSTAMP:20260825T113034Z
+UID:ab68df4d41e3e832313581f7@basquetcalendar-88829
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - SANT IGNASI C.C. SEGONA 
+ CATEGORIA MASCULINA\n\n🏆 2A CATALANA SÈNIOR MASCULÍ\n🏀 Local 🏠\
+ n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_gl
+ obal/pdf/88829
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 @  ✈️
+DTSTART;TZID=Europe/Madrid:20261213T193000
+DTEND;TZID=Europe/Madrid:20261213T213000
+DTSTAMP:20260825T113034Z
+UID:61a7105c9f2c12fbf1c96fe3@basquetcalendar-88829
+DESCRIPTION: - \n\n🏆 2A CATALANA SÈNIOR MASCULÍ\n🏀 Visitant ✈️
+ \n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_g
+ lobal/pdf/88829
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 @  ✈️
+DTSTART;TZID=Europe/Madrid:20261220T123000
+DTEND;TZID=Europe/Madrid:20261220T143000
+DTSTAMP:20260825T113034Z
+UID:61a7105c9f2c12fbf1c96fe3@basquetcalendar-88829
+DESCRIPTION: - \n\n🏆 2A CATALANA SÈNIOR MASCULÍ\n🏀 Visitant ✈️
+ \n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_g
+ lobal/pdf/88829
+LOCATION:PAVELLO ESPORTIU CLARET (NAPOLS 348 (08025))
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 vs PINTURAS CORBACHO - BASKET CORAS C.C. SEGONA CATEGORIA MAS
+ CULINA 🏠
+DTSTART;TZID=Europe/Madrid:20270109T193000
+DTEND;TZID=Europe/Madrid:20270109T213000
+DTSTAMP:20260825T113034Z
+UID:f284bf6f982ba6c235dee8bb@basquetcalendar-88829
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - BASKET CORAS C.C. SEGONA
+  CATEGORIA MASCULINA\n\n🏆 2A CATALANA SÈNIOR MASCULÍ\n🏀 Local 🏠
+ \n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_g
+ lobal/pdf/88829
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 @  ✈️
+DTSTART;TZID=Europe/Madrid:20270117T174500
+DTEND;TZID=Europe/Madrid:20270117T194500
+DTSTAMP:20260825T113034Z
+UID:61a7105c9f2c12fbf1c96fe3@basquetcalendar-88829
+DESCRIPTION: - \n\n🏆 2A CATALANA SÈNIOR MASCULÍ\n🏀 Visitant ✈️
+ \n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_g
+ lobal/pdf/88829
+LOCATION:PAVELLÓ AYMÀ - POBLENOU (PASSSATGE AYMÀ\, 18-26 (08005))
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 @  ✈️
+DTSTART;TZID=Europe/Madrid:20270124T123000
+DTEND;TZID=Europe/Madrid:20270124T143000
+DTSTAMP:20260825T113034Z
+UID:61a7105c9f2c12fbf1c96fe3@basquetcalendar-88829
+DESCRIPTION: - \n\n🏆 2A CATALANA SÈNIOR MASCULÍ\n🏀 Visitant ✈️
+ \n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_g
+ lobal/pdf/88829
+LOCATION:POLIESPORTIU SERGIO MANZANO (AV.MARE DE DEU DE BELLVITGE\, 7 (089
+ 07))
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 vs PINTURAS CORBACHO - LIMA-HORTA BARCELONA C.C. SEGONA CATEG
+ ORIA MASCULINA 🏠
+DTSTART;TZID=Europe/Madrid:20270130T193000
+DTEND;TZID=Europe/Madrid:20270130T213000
+DTSTAMP:20260825T113034Z
+UID:d52e85f02e6b21e8938d3e8b@basquetcalendar-88829
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - LIMA-HORTA BARCELONA C.C
+ . SEGONA CATEGORIA MASCULINA\n\n🏆 2A CATALANA SÈNIOR MASCULÍ\n🏀 Lo
+ cal 🏠\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari
+ _equip_global/pdf/88829
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 @  ✈️
+DTSTART;TZID=Europe/Madrid:20270207T180000
+DTEND;TZID=Europe/Madrid:20270207T200000
+DTSTAMP:20260825T113034Z
+UID:61a7105c9f2c12fbf1c96fe3@basquetcalendar-88829
+DESCRIPTION: - \n\n🏆 2A CATALANA SÈNIOR MASCULÍ\n🏀 Visitant ✈️
+ \n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_g
+ lobal/pdf/88829
+LOCATION:INST.MUNICIPALS ILLA DIAGONAL (NUMANCIA\, 142 (08029))
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 vs PINTURAS CORBACHO - A.E. SANT ANDREU NATZARET-B C.C. SEGON
+ A CATEGORIA MASCULINA 🏠
+DTSTART;TZID=Europe/Madrid:20270213T193000
+DTEND;TZID=Europe/Madrid:20270213T213000
+DTSTAMP:20260825T113034Z
+UID:57b90d4fe5226955cbd90353@basquetcalendar-88829
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - A.E. SANT ANDREU NATZARE
+ T-B C.C. SEGONA CATEGORIA MASCULINA\n\n🏆 2A CATALANA SÈNIOR MASCULÍ\n
+ 🏀 Local 🏠\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/ca
+ lendari_equip_global/pdf/88829
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 @  ✈️
+DTSTART;TZID=Europe/Madrid:20270228T193000
+DTEND;TZID=Europe/Madrid:20270228T213000
+DTSTAMP:20260825T113034Z
+UID:61a7105c9f2c12fbf1c96fe3@basquetcalendar-88829
+DESCRIPTION: - \n\n🏆 2A CATALANA SÈNIOR MASCULÍ\n🏀 Visitant ✈️
+ \n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_g
+ lobal/pdf/88829
+LOCATION:JESUS MARIA SANT GERVASI (C/ JESUS I MARIA\, 1-25 (08022))
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 vs PINTURAS CORBACHO - UE HORTA B C.C. SEGONA CATEGORIA MASCU
+ LINA 🏠
+DTSTART;TZID=Europe/Madrid:20270306T193000
+DTEND;TZID=Europe/Madrid:20270306T213000
+DTSTAMP:20260825T113034Z
+UID:3ca06d3bb407f93e36250b27@basquetcalendar-88829
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - UE HORTA B C.C. SEGONA C
+ ATEGORIA MASCULINA\n\n🏆 2A CATALANA SÈNIOR MASCULÍ\n🏀 Local 🏠\n
+ \nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_glo
+ bal/pdf/88829
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 @  ✈️
+DTSTART;TZID=Europe/Madrid:20270314T174500
+DTEND;TZID=Europe/Madrid:20270314T194500
+DTSTAMP:20260825T113034Z
+UID:61a7105c9f2c12fbf1c96fe3@basquetcalendar-88829
+DESCRIPTION: - \n\n🏆 2A CATALANA SÈNIOR MASCULÍ\n🏀 Visitant ✈️
+ \n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_g
+ lobal/pdf/88829
+LOCATION:PAVELLO LA COLINA (GRAN BRETANYA\, S/N (08917))
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 vs PINTURAS CORBACHO - CLUB BÀSQUET COLL A C.C. SEGONA CATEG
+ ORIA MASCULINA 🏠
+DTSTART;TZID=Europe/Madrid:20270403T193000
+DTEND;TZID=Europe/Madrid:20270403T213000
+DTSTAMP:20260825T113034Z
+UID:a044a9ccb10f3727dabfed64@basquetcalendar-88829
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - CLUB BÀSQUET COLL A C.C
+ . SEGONA CATEGORIA MASCULINA\n\n🏆 2A CATALANA SÈNIOR MASCULÍ\n🏀 Lo
+ cal 🏠\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari
+ _equip_global/pdf/88829
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 @  ✈️
+DTSTART;TZID=Europe/Madrid:20270411T193000
+DTEND;TZID=Europe/Madrid:20270411T213000
+DTSTAMP:20260825T113034Z
+UID:61a7105c9f2c12fbf1c96fe3@basquetcalendar-88829
+DESCRIPTION: - \n\n🏆 2A CATALANA SÈNIOR MASCULÍ\n🏀 Visitant ✈️
+ \n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_g
+ lobal/pdf/88829
+LOCATION:COL.LEGI SANT IGNASI (GENERAL VIVES 34 (08017))
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 vs PINTURAS CORBACHO - MARISTES ADEMAR B C.C. SEGONA CATEGORI
+ A MASCULINA 🏠
+DTSTART;TZID=Europe/Madrid:20270417T193000
+DTEND;TZID=Europe/Madrid:20270417T213000
+DTSTAMP:20260825T113034Z
+UID:9fe915c3aacf6f9882f38a7e@basquetcalendar-88829
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - MARISTES ADEMAR B C.C. S
+ EGONA CATEGORIA MASCULINA\n\n🏆 2A CATALANA SÈNIOR MASCULÍ\n🏀 Local
+  🏠\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_eq
+ uip_global/pdf/88829
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 vs PINTURAS CORBACHO - U.E. CLARET B C.C. SEGONA CATEGORIA MA
+ SCULINA 🏠
+DTSTART;TZID=Europe/Madrid:20270424T193000
+DTEND;TZID=Europe/Madrid:20270424T213000
+DTSTAMP:20260825T113034Z
+UID:1787c1cadca788cb754c547f@basquetcalendar-88829
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - U.E. CLARET B C.C. SEGON
+ A CATEGORIA MASCULINA\n\n🏆 2A CATALANA SÈNIOR MASCULÍ\n🏀 Local 
+ 🏠\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equ
+ ip_global/pdf/88829
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 @  ✈️
+DTSTART;TZID=Europe/Madrid:20270508T200000
+DTEND;TZID=Europe/Madrid:20270508T220000
+DTSTAMP:20260825T113034Z
+UID:61a7105c9f2c12fbf1c96fe3@basquetcalendar-88829
+DESCRIPTION: - \n\n🏆 2A CATALANA SÈNIOR MASCULÍ\n🏀 Visitant ✈️
+ \n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equip_g
+ lobal/pdf/88829
+LOCATION:SAGRAT COR - SORT.9 RDA.DALT (RAMON MIQUEL I PLANAS\, 38-40 (0803
+ 4))
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 vs PINTURAS CORBACHO - BÀSQUET PB9 'A' C.C. SEGONA CATEGORIA
+  MASCULINA 🏠
+DTSTART;TZID=Europe/Madrid:20270515T193000
+DTEND;TZID=Europe/Madrid:20270515T213000
+DTSTAMP:20260825T113034Z
+UID:f2891569d32f9c104171330c@basquetcalendar-88829
+DESCRIPTION:A.E. BADALONÈS - PINTURAS CORBACHO - BÀSQUET PB9 'A' C.C. SE
+ GONA CATEGORIA MASCULINA\n\n🏆 2A CATALANA SÈNIOR MASCULÍ\n🏀 Local 
+ 🏠\n\nFont oficial:\nhttps://www.basquetcatala.cat/partits/calendari_equ
+ ip_global/pdf/88829
+LOCATION:PAVELLO LA PLANA (LA PLANA\, S/N (08912))
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/pdf/88829
+END:VEVENT
 END:VCALENDAR
